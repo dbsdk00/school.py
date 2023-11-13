@@ -1,4 +1,4 @@
 while True :
     print(".", end = "") 
 
-    #ctrl c 누르면 멈춤
+    # ctrl c 누르면 멈춤
